@@ -20,21 +20,7 @@ class AttendanceProvider with ChangeNotifier {
   void _loadStudents() {
     // Data dummy siswa PPLG4
     _students = [
-      Student(id: '1', name: 'Ahmad Fauzi', nis: '2024001', className: 'PPLG4'),
-      Student(id: '2', name: 'Budi Santoso', nis: '2024002', className: 'PPLG4'),
-      Student(id: '3', name: 'Citra Dewi', nis: '2024003', className: 'PPLG4'),
-      Student(id: '4', name: 'Dewi Sartika', nis: '2024004', className: 'PPLG4'),
-      Student(id: '5', name: 'Eko Prasetyo', nis: '2024005', className: 'PPLG4'),
-      Student(id: '6', name: 'Fitri Handayani', nis: '2024006', className: 'PPLG4'),
-      Student(id: '7', name: 'Gunawan Setiawan', nis: '2024007', className: 'PPLG4'),
-      Student(id: '8', name: 'Hesti Wulandari', nis: '2024008', className: 'PPLG4'),
-      Student(id: '9', name: 'Indra Kusuma', nis: '2024009', className: 'PPLG4'),
-      Student(id: '10', name: 'Joko Widodo', nis: '2024010', className: 'PPLG4'),
-      Student(id: '11', name: 'Kartika Sari', nis: '2024011', className: 'PPLG4'),
-      Student(id: '12', name: 'Lukman Hakim', nis: '2024012', className: 'PPLG4'),
-      Student(id: '13', name: 'Maya Indah', nis: '2024013', className: 'PPLG4'),
-      Student(id: '14', name: 'Nugroho Pratama', nis: '2024014', className: 'PPLG4'),
-      Student(id: '15', name: 'Oktavia Putri', nis: '2024015', className: 'PPLG4'),
+    //  saha anu waeee
     ];
   }
 

@@ -33,46 +33,5 @@ flutter pub get
 flutter run
 ```
 
-### Backend PHP
-1. Start Apache di XAMPP/Laragon
-2. Akses: `http://localhost/backend/`
-
-## Fitur Aplikasi
-
-- ✅ Daftar siswa PPLG4 (15 siswa)
-- ✅ Absensi per siswa (tap untuk toggle)
-- ✅ Absen semua siswa sekaligus
-- ✅ Reset absensi
-- ✅ Simpan data ke local storage
-- ✅ Backend API untuk penyimpanan server
-- ✅ Tampilan modern dengan Material Design 3
-
-## Data Siswa PPLG4
-
-Aplikasi sudah berisi data dummy 15 siswa PPLG4:
-1. Ahmad Fauzi (2024001)
-2. Budi Santoso (2024002)
-3. Citra Dewi (2024003)
-4. Dewi Sartika (2024004)
-5. Eko Prasetyo (2024005)
-6. Fitri Handayani (2024006)
-7. Gunawan Setiawan (2024007)
-8. Hesti Wulandari (2024008)
-9. Indra Kusuma (2024009)
-10. Joko Widodo (2024010)
-11. Kartika Sari (2024011)
-12. Lukman Hakim (2024012)
-13. Maya Indah (2024013)
-14. Nugroho Pratama (2024014)
-15. Oktavia Putri (2024015)
-
-## Cara Kerja
-- Flutter mengirim data absensi ke backend PHP melalui HTTP request
-- Backend PHP menyimpan data ke database SQLite
-- Data juga disimpan di local storage Flutter untuk offline access
-
-## Next Steps
-- [ ] Integrasi Flutter dengan backend PHP
-- [ ] Fitur export data ke Excel/PDF
-- [ ] Fitur login admin
-- [ ] Dashboard statistik absensi 
+### check task 
+https://docs.google.com/spreadsheets/d/1OuiNeTZrPbrhucLVVi8_miX0y9Iv4VYgoZpE0PcRG9g/edit?hl=id&pli=1&gid=1150608600#gid=1150608600
